@@ -1,0 +1,11 @@
+removetag0 test.html | number |4
+noop
+noop
+noop
+number | cat | cat |1
+number | cat | cat |3
+noop
+noop
+cat
+who
+exit
